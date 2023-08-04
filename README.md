@@ -2,5 +2,9 @@
 This serves for me to document certain software development mechanics
 
 # Goals
-- [] Hello World in C++
-- [] 
+- [ ] Choose a C++ version
+- [ ] Hello World in C++
+- [ ] Use a Call by reference
+- [ ] Write a Test
+- [ ] Execute Test automatically in CI/CD
+- [ ] Compile a library in CI/CD
