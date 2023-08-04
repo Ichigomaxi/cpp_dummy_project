@@ -2,5 +2,5 @@
 This serves for me to document certain software development mechanics
 
 # Goals
-[] Hello World 
-[] Hello World 
+- [] Hello World in C++
+- [] 
