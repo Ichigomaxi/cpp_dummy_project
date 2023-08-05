@@ -37,6 +37,9 @@ Note: To use MSVC from the command line or VS Code, you must run from a Develope
 #### GCC on Windows
 If you're targeting Linux from Windows, check out Using C++ and Windows Subsystem for Linux (WSL) in VS Code. Or, you could install GCC on Windows with MinGW.
 
+##### Use GCC C++ Compiler from MingGW
+Follow instructions from [here](https://vscode.dev/github/microsoft/vscode-docs/blob/main/docs/cpp/config-mingw.md)
+
 ### Linux
 
 #### GCC
